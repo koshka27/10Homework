@@ -37,4 +37,4 @@ def skills(skill):
         str_candidates += ""
 
         return str_candidates
-app.run(debug=True)
+app.run()
